@@ -1,1 +1,1 @@
-# KNN-Classifier
+# KNN-movie-review-classifier
