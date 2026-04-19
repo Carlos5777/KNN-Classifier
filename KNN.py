@@ -1,7 +1,5 @@
-# -*- coding: utf-8 -*-
 """KNN.ipynb
 
-"""
 KNN Movie Review Classifier
 
 This script implements a K-Nearest Neighbors model to classify
